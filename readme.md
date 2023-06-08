@@ -1,6 +1,5 @@
- Desarrolladora Web | JAVASCRIPT | HTML | CSS <br>
-¡Hola Mi nombre es May Alcione!
-Soy una desarrolladora web, fascinada por el mundo de la tecnología. Me encanta sumergirme en nuevos desafíos y descubrir las últimas tendencias en el campo y conocer diferentes culturas, ya que creo que la diversidad enriquece nuestra perspectiva y nos permite desarrollar soluciones más creativas. Encuentro inspiración en el dibujo y en la música. Estas actividades me ayudan a liberar mi creatividad ya encontrar un equilibrio entre el trabajo y el disfrute personal. ¡Estoy emocionada por seguir explorando y creciendo en estas áreas que me apasionan!
+¡Hola Mi nombre es May Alcione! ================================================== ================================================== ======================== Desarrolladora Web | JAVASCRIPT | HTML | CSS -------------------------------------------- 
+Soy fascinada por el mundo de la tecnología. Me encanta sumergirme en nuevos desafíos y descubrir las últimas tendencias en el campo y conocer diferentes culturas, ya que creo que la diversidad enriquece nuestra perspectiva y nos permite desarrollar soluciones más creativas. Encuentro inspiración en el dibujo y en la música. Estas actividades me ayudan a liberar mi creatividad ya encontrar un equilibrio entre el trabajo y el disfrute personal. ¡Estoy emocionada por seguir explorando y creciendo en estas áreas que me apasionan!
 <br>* 🌍 Vivo en Chile
 <br>* ✉️ Puedes contactarme en [myalcione@gmail.com](mailto:myalcione@gmail.com)[](mailto:myalcione@gmail.com) 
 <br>* 🧠 Estoy aprendiendo Angular
