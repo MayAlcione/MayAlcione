@@ -1,7 +1,7 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es May Alcione
 ===================================================================================================================================
 
-Desarrolladora Web | |PYTHON | JAVASCRIPT | HTML | CSS | ANGULAR
+Desarrolladora Web | PYTHON | JAVASCRIPT | HTML | CSS | ANGULAR
 --------------------------------------------
 
 Soy fascinada por el mundo de la tecnología. Me encanta sumergirme en nuevos desafíos y descubrir las últimas tendencias en el campo y conocer diferentes culturas, ya que creo que la diversidad enriquece nuestra perspectiva y nos permite desarrollar soluciones más creativas. Encuentro inspiración en el dibujo y en la música. Estas actividades me ayudan a liberar mi creatividad y a encontrar un equilibrio entre el trabajo y el disfrute personal. ¡Estoy emocionada por seguir explorando y creciendo en estas áreas que me apasionan!
