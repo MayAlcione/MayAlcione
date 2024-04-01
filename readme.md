@@ -8,7 +8,7 @@ Soy fascinada por el mundo de la tecnología. Me encanta sumergirme en nuevos de
 
 *   🌍  Vivo en Chile
 *   ✉️  Puedes contactarme por [myalcione@gmail.com](mailto:myalcione@gmail.com)
-*   🧠  Estoy aprendiendo Angular
+*   🧠  Estoy aprendiendo AI
 *   🤝  Tengo ganas de colaborar en proyectos interesantes
 ### Habilidades 
 <p align="left">
